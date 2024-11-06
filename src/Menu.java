@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Presenta el menú principal. Hola, bola, ratón sin cola.
+ * Presenta el menú principal. Hola, mundo
  * @author Araceli Mercado
  * @version 1.0
  */
